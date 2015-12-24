@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Small Corner</title>
+    <description></description>
+    <link>http://yourdomain.com/</link>
+    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 24 Dec 2015 15:11:32 -0600</pubDate>
+    <lastBuildDate>Thu, 24 Dec 2015 15:11:32 -0600</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Welcome (but not really)</title>
+        <description>&lt;p&gt;If you’re looking for something inspiring, then this is the wrong place.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 24 Dec 2015 13:25:42 -0600</pubDate>
+        <link>http://yourdomain.com/notices/2015/12/24/welcome-(but-not-really).html</link>
+        <guid isPermaLink="true">http://yourdomain.com/notices/2015/12/24/welcome-(but-not-really).html</guid>
+        
+        
+        <category>notices</category>
+        
+      </item>
+    
+  </channel>
+</rss>
